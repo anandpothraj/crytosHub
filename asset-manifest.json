@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/crytosHub/static/css/main.c810c353.chunk.css",
+    "main.js": "/crytosHub/static/js/main.bb93f692.chunk.js",
+    "main.js.map": "/crytosHub/static/js/main.bb93f692.chunk.js.map",
+    "runtime-main.js": "/crytosHub/static/js/runtime-main.8c727afe.js",
+    "runtime-main.js.map": "/crytosHub/static/js/runtime-main.8c727afe.js.map",
+    "static/js/2.fdcb6fc7.chunk.js": "/crytosHub/static/js/2.fdcb6fc7.chunk.js",
+    "static/js/2.fdcb6fc7.chunk.js.map": "/crytosHub/static/js/2.fdcb6fc7.chunk.js.map",
+    "index.html": "/crytosHub/index.html",
+    "static/css/main.c810c353.chunk.css.map": "/crytosHub/static/css/main.c810c353.chunk.css.map",
+    "static/js/2.fdcb6fc7.chunk.js.LICENSE.txt": "/crytosHub/static/js/2.fdcb6fc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c727afe.js",
+    "static/js/2.fdcb6fc7.chunk.js",
+    "static/css/main.c810c353.chunk.css",
+    "static/js/main.bb93f692.chunk.js"
+  ]
+}
